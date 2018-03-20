@@ -13,8 +13,9 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
     "nuxt": "^1.0.0",
-    "@nuxtjs/axios": "^5.0.0"
+    "storyblok-nuxt": "0.0.3"
   },
   "devDependencies": {
     "cross-env": "^5.0.1",
